@@ -30,7 +30,7 @@ function App() {
     <div>
       <Header>
         <Container>
-          <h1>BOLOSSS</h1>
+          <h1>BALTRINGUE</h1>
         </Container>
       </Header>
       <Container>
